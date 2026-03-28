@@ -1,11 +1,12 @@
 # Sales-Funnel-Analysis
 
+### Background
+Management requests that we analyze our sales funnel using SQL to calculate conversion rates, time spent in stages, and other important metrics. Based on our findings, we should give recommendations on how we could potentially increase profits.
+
 <img width="923" height="511" alt="image" src="https://github.com/user-attachments/assets/c875aedb-33a1-495e-9fa4-68755d741193" />
 
 <img width="928" height="521" alt="image" src="https://github.com/user-attachments/assets/a52a8eb0-9fe8-4a8f-bf81-9413267e43df" />
 
-### Background
-Management requests that we analyze our sales funnel using SQL to calculate conversion rates, time spent in stages, and other important metrics. Based on our findings, we should give recommendations on how we could potentially increase profits.
 
 ### Conversion Rates
 <img width="1029" height="48" alt="image" src="https://github.com/user-attachments/assets/9515591e-46fe-442c-bb71-bd39c6d7df67" />
