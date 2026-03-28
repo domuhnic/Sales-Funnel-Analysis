@@ -1,15 +1,24 @@
 # Sales-Funnel-Analysis
 
+<img width="923" height="511" alt="image" src="https://github.com/user-attachments/assets/c875aedb-33a1-495e-9fa4-68755d741193" />
+
+<img width="928" height="521" alt="image" src="https://github.com/user-attachments/assets/a52a8eb0-9fe8-4a8f-bf81-9413267e43df" />
+
 ### Background
 Management requests that we analyze our sales funnel using SQL to calculate conversion rates, time spent in stages, and other important metrics. Based on our findings, we should give recommendations on how we could potentially increase profits.
 
 ### Conversion Rates
 <img width="1029" height="48" alt="image" src="https://github.com/user-attachments/assets/9515591e-46fe-442c-bb71-bd39c6d7df67" />
+<img width="921" height="569" alt="image" src="https://github.com/user-attachments/assets/472aca01-8fb0-4b5d-9b5e-719a11eefcf6" />
+<img width="926" height="567" alt="image" src="https://github.com/user-attachments/assets/60c66f62-c434-4a23-af4b-456c011fad34" />
+
 
 We first use a CTE to query the count of all stages, then divide each count by the previous stage to get the conversion rate. Based on our findings, we can see that we are having a hard time getting customers to add products to their carts, which is normal since many users tend to browse around. We can see that once products are added to the cart, conversion rates increase significantly. The checkout to payment rate is 81%, and the chances of a user going from payment to purchase are 91%, which is extremely high. ***It seems that our website allows for users to make easy purchases, so I would not recommend making any changes.***
 
 ### Traffic Sources
 <img width="710" height="99" alt="image" src="https://github.com/user-attachments/assets/600d627d-cd5a-45c0-891e-031633c07d9b" />
+<img width="925" height="566" alt="image" src="https://github.com/user-attachments/assets/19b504dc-973b-4ad5-b8e8-021e262f2be1" />
+
 
 Although emails have the least amount of views, the cart and purchase rates are the highest among the four sources, and it has the second highest cart to purchase rate among the four sources. ***Our marketing budget should be used to invest in capturing more users from emails.*** Social media is a very weak source, with the lowest rates besides the cart to purchase conversion rate (tied with organic). Although it gains many views, ***it is not worth investing into social media ads. We can instead use the money we spend on ads for emails.***
 
