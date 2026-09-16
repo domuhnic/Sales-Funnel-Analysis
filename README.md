@@ -1,6 +1,6 @@
 # Sales-Funnel-Analysis
 
-### Background
+### Background/Scenario
 Management requests that we analyze our sales funnel using SQL to calculate conversion rates, time spent in stages, and other important metrics. Based on our findings, we should give recommendations on how we could potentially increase profits.
 
 <img width="923" height="511" alt="image" src="https://github.com/user-attachments/assets/c875aedb-33a1-495e-9fa4-68755d741193" />
